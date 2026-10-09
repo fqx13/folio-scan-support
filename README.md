@@ -1,2 +1,2 @@
 # folio-scan-support
-Public support and privacy policy for Folio: PDF Scanner for iOS.
+Public support and privacy policy for Scanelio: PDF Scanner for iOS.
